@@ -4,13 +4,13 @@ description: A brief description of your site
 theme: theme-name # The theme you're using for your site
 
 # GitHub Pages settings
-baseurl: /repository-name # The base URL for your site, often set to the repository name
+baseurl: /ArleneDcosta.github.io # The base URL for your site, often set to the repository name
 url: https://arlenedcosta.github.io # The URL where your site will be hosted
 permalink: /:title/ # The structure of permalinks for posts/pages
 
 # Author information
 author:
-  name: Your Name
+  name: Arlene
   email: your.email@example.com
 
 # Build settings
