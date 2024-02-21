@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Arlene Dcosta
-    tagline: Data Enthusiasts
+    tagline: Data and Coding Enthusiast
     avatar: profilearlene.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -17,9 +17,8 @@ sidebar:
     phone: 315 952 8193
     timezone: America/Cancun Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: www.linkedin.com/in/arlenedcosta
-    xing: alandoe
+    website: www.kasakaimumbai.com #do not add http://
+    linkedin: arlenedcosta
     github: ArleneDcosta
     gitlab:
     bitbucket:
@@ -34,33 +33,29 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
+        - idiom: Hindi
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
+
 
     interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
+        - item: Reading Novels
           link:
 
         - item: Cooking
           link:
 
+        - item: Playing Badminton
+          link:
+
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Highly motivated, detail-oriented, focused individual proficient in performing tasks in a fast-paced environment. Data & Cloud enthusiast with Azure fundamentals certifications and proficient programming as well as problem-solving skills
+ 
+
 education:
     title: Education
     info:
