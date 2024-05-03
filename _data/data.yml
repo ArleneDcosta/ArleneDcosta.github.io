@@ -70,9 +70,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: BE in Information Technology
+        university: Mumbai University
+        time: 2016 - 2020
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -85,24 +85,26 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
       - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+        time: 2021 - 2022
+        company: LTIMindtree, Navi Mumbai, India
+        details: |
+          As a Senior Software Engineer specializing in designing and developing products, my role encompasses 
+          scoping product designs by collaborating closely with stakeholders to understand requirements and 
+          define project goals. I architect robust and scalable solutions, selecting appropriate technologies and 
+          establishing development roadmaps. Through active development, I write clean, maintainable code, 
+          provide technical guidance to the team, and engage in problem-solving to overcome challenges.
+           I ensure quality through rigorous testing and continuous improvement, staying abreast of emerging technologies 
+           and methodologies to enhance the efficiency and effectiveness of our development processes.
+            - Engineered an innovative algorithm for parallel processing of Terabytes of data through multithreading, significantly improving data processing efficiency by 38% thus creating an in-house ELT Pipelining strategy.
+            -	Spearheaded the automation of real-time data streaming from on-prem Kafka servers to Google Pub/Sub, enhancing data availability and reducing latency.
+            - Spearheaded the implementation of Docker containerization with Cloud Build and Cloud Run for 2+ applications, reducing deployment time by 40% and increasing deployment frequency from monthly to daily.
+            - Led the design and optimization of a robust Data Ingestion automation Python Framework, reducing the data loading time of diverse data sources (Oracle, Teradata, HANA) into target warehouses like BigQuery by 20% and mentored new joiners
+            -	Boosted Data Ingestion Framework reliability with Pytest unit tests, cutting bugs by 20%. 
+            - Developed and tested a sophisticated parser for a Metadata Lineage tool, extracting insights from diverse source systems (HQL, Teradata SQL, Informatica XML) to empower business analysis with a comprehensive inventory of 1,00,000 objects
+      - role: Software Engineer
+        time: 2020 - 2021
+        company: LTIMindtree, Mumbai, India
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
