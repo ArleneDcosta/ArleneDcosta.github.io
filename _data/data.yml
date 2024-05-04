@@ -19,7 +19,7 @@ sidebar:
     citizenship:
     website: www.kasakaimumbai.com #do not add http://
     linkedin: arlenedcosta
-    github: ArleneDcosta
+    github: github.com/ArleneDcosta/
     gitlab:
     bitbucket:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -34,7 +34,10 @@ sidebar:
           level: Native
 
         - idiom: Hindi
-          level: Professional
+          level: Native
+
+        - idiom: Konkani
+          level: Native
 
 
 
