@@ -106,13 +106,21 @@ experiences:
         time: 2020 - 2021
         company: LTIMindtree, Mumbai, India
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          As a Software Engineer specializing in Automation Product Development, I am responsible for designing, developing,
+          and maintaining software solutions for automated systems.I collaborate closely with cross-functional teams to understand
+          requirements and translate them into technical solutions. Leveraging my expertise in programming languages and 
+          frameworks, I develop robust, scalable, and efficient software components and modules for automation products.
+          I ensure the reliability and correctness of software components through comprehensive unit and integration testing. 
+          Additionally, I establish and maintain CI/CD pipelines to automate the software build, test, and deployment processes, 
+          facilitating rapid and reliable releases. Continuously monitoring and optimizing product performance, scalability, and 
+          efficiency is integral to my role, as is providing comprehensive documentation and technical support to internal teams 
+          and customers. I am passionate about leveraging technology to drive automation and digital transformation, and I am committed to making a meaningful impact 
+          and advancing my career in software engineering.
+            - Designed and implemented a Graph Sequencing Algorithm within the metadata lineage tool, strategically clustering objects for effective migration planning across complex business domains
+            - Optimized data population to GraphDB using Spark, achieving a remarkable reduction in data loading time from 48 hours to just 10 minutes, resulting in a substantial increase in overall system efficiency
+            - Contributed to developing an automation engine that intelligently translates legacy on-prem Teradata SQL code to its Snowflake equivalent SQL code and reduces manual intervention providing 60% accuracy
+            - Provided quick and efficient solutions by tuning complex queries with strategies such as pushdown predicate and CTE expressions that reduced the Snowflake job execution time from 2 hours to 20 minutes
+
       - role: UI Developer
         time: 2012 - 2014
         company: Amazon, London
