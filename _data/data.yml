@@ -144,7 +144,7 @@ certifications:
           end: 
           organization: Microsoft
           credentialid: 991744612
-          credentialurl: https://www.credly.com/badges/f62d2d08-7bcf-4d29-9706-6c5639334ed3
+          credentialurl: www.credly.com/badges/f62d2d08-7bcf-4d29-9706-6c5639334ed3
           credentialname: Azure Fundamentals
           details: |
             Azure Fundamentals is an entry-level certification from Microsoft that validates a foundational understanding of 
