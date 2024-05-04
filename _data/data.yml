@@ -176,9 +176,9 @@ projects:
     intro: >
       
     assignments:
-      - title: Text Mining, NLP, Machine Learning
-        link: "github.com/ArleneDcosta/StackExchangePatternandPrediction"
-        tagline: "Uncovering Stack Exchange Data through Data Mining techniques"
+      - title: Uncovering Stack Exchange Data through Data Mining techniques
+        link: github.com/ArleneDcosta/StackExchangePatternandPrediction
+        tagline: Text Mining, NLP, Machine Learning models, KNN, Neural Network, Random Forest
         Description: 
           This project employs data mining algorithms to analyze the behaviors of different technical 
           users such as novice developers, company professionals, or researchers on Stack Overflow. 
