@@ -121,42 +121,40 @@ experiences:
             - Contributed to developing an automation engine that intelligently translates legacy on-prem Teradata SQL code to its Snowflake equivalent SQL code and reduces manual intervention providing 60% accuracy
             - Provided quick and efficient solutions by tuning complex queries with strategies such as pushdown predicate and CTE expressions that reduced the Snowflake job execution time from 2 hours to 20 minutes
 
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Web Developer Intern
+        time: May 2019 - July 2019
+        company: TDKR Tech, Mumbai, India
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          As a Backend Developer specializing in PHP and HTML/CSS, my responsibility was to craft and maintain the server-side 
+          logic and databases, ensuring the smooth operation of web applications. I collaborated closely with front-end developers 
+          to seamlessly integrate user-facing elements with backend functionalities, creating cohesive and efficient solutions. 
+          Proficiency in PHP allowed me to handle server-side scripting, manage databases, and configure servers effectively. 
+          Additionally, my expertise in HTML and CSS enabled me to structure and style web pages to optimize user experience. 
+          With a deep understanding of web development principles and best practices, I was dedicated to building dynamic and 
+          responsive web applications that met client needs and delivered exceptional performance.
+            - Built a multi-page web application utilizing HTML/Javascript for front-end development and PHP for server side 
+            scripting. 
+          
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
+        - name: Azure Fundamentals
+          start: 2021
+          end: 
           organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+          credentialid: 991744612
+          credentialurl: https://www.credly.com/badges/f62d2d08-7bcf-4d29-9706-6c5639334ed3
+          credentialname: Azure Fundamentals
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
+            Azure Fundamentals is an entry-level certification from Microsoft that validates a foundational understanding of 
+            cloud concepts and services provided by Microsoft Azure. This certification is suitable for individuals who are new 
+            to cloud computing or looking to build a career in cloud technologies. The Azure Fundamentals certification exam covers 
+            core Azure services, including computing, storage, networking, and security. It also assesses knowledge of basic cloud 
+            concepts such as scalability, elasticity, and availability. Achieving Azure Fundamentals certification demonstrates proficiency 
+            in navigating the Azure portal, understanding Azure pricing and support options, and recognizing compliance and governance 
+            capabilities within Azure. Overall, Azure Fundamentals certification serves as a stepping stone for individuals seeking to 
+            further their cloud computing knowledge and pursue more advanced Azure certifications.
         - name: Git learning
           start: 2019
           end:
