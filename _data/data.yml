@@ -19,7 +19,7 @@ sidebar:
     citizenship:
     website: www.kasakaimumbai.com #do not add http://
     linkedin: arlenedcosta
-    github: github.com/ArleneDcosta/
+    github: ArleneDcosta/
     gitlab:
     bitbucket:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -246,8 +246,5 @@ skills:
       - name: Ruby on Rails
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+
