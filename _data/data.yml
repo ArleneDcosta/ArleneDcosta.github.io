@@ -192,59 +192,52 @@ projects:
           experiences based on these algorithmic insights
 
       
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+# wd to help startups promote their products or services and to attract users &amp; investors"
 
   
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Alzheimer's Disease Prediction using FASTAI (Chapter 76): Successfully presented at SPRINGER ICTIS 4th International 
+      Conference and published a paper in Smart Innovation, Systems and Technologies, Vol. 195
     papers:
-      - title: The Art of Computer Programming
+      - title: Alzheimer's Disease Prediction using FASTAI
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Arlene D'costa, Prabhjyot Bamrah, Riya Francis, Unik Lokhande
+        conference: SPRINGER ICTIS 4th International Conference,2020
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python & Flask
         level: 98%
 
       - name: Javascript & jQuery
         level: 98%
 
-      - name: Angular
+      - name: Snowflake
         level: 98%
+
+      - name: Google Cloud
+        level: 78%
+
+      - name: AWS
+        level: 70%
+
+      - name: SQL
+        level: 98%
+
+      - name: Machine Learning Algorithms
+        level: 80%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Haskell
+        level: 45%
 
 
 
