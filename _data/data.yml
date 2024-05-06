@@ -191,6 +191,20 @@ projects:
           based on upvote score using prediction strategy. Ultimately, it seeks to optimize platform features and enhance user
           experiences based on these algorithmic insights
 
+
+      - title: Life Expectancy Prediction using WHO Dataset
+        link: github.com/ArleneDcosta/StackExchangePatternandPrediction
+        tagline: Linear Regression, Data Visualization, Data Analysis,NLP, Machine Learning models, KNN, Neural Network,
+         Random Forest
+        Description: 
+          This project employs data mining algorithms to analyze the behaviors of different technical 
+          users such as novice developers, company professionals, or researchers on Stack Overflow. 
+          By examining engagement patterns, content preferences, and community dynamics, it 
+          aims to uncover insights into user interactions. Utilizing topic modeling such as BERT and LDA and the project 
+          anticipates user actions, and emerging technologies and identifies unusual behavior by flagging non important posts 
+          based on upvote score using prediction strategy. Ultimately, it seeks to optimize platform features and enhance user
+          experiences based on these algorithmic insights
+
       
 # wd to help startups promote their products or services and to attract users &amp; investors"
 
