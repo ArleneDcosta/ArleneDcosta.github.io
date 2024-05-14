@@ -247,6 +247,9 @@ skills:
       - name: AWS
         level: 70%
 
+      - name: Docker
+        level: 75%
+
       - name: SQL
         level: 98%
 
