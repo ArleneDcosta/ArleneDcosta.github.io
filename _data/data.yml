@@ -238,6 +238,12 @@ skills:
       - name: Google Cloud
         level: 78%
 
+      - name: Apache Kafka
+        level: 70%
+
+      - name: Data Visualization
+        level: 80%
+
       - name: AWS
         level: 70%
 
