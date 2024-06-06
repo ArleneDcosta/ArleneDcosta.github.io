@@ -88,6 +88,13 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Software Developer Intern
+        time: 2024 - Current
+        company: Rebel, New York, United States
+        details: |
+          Actively involved in the collaborative development of a cutting-edge application leveraging React.js for a dynamic front-end experience and Django for a robust REST API backend. Utilizes Google Cloud Pub/Sub for efficient streaming services and integrates PostgreSQL for reliable data management.
+          Ensures seamless interaction between the front-end and back-end systems, optimizing performance and user experience.
+            - Collaboratively developing an application using ReactJs and Rest API with Django Framework and streaming services via GCP Pub Sub and PostGreSQL
       - role: Senior Software Engineer
         time: 2021 - 2022
         company: LTIMindtree, Navi Mumbai, India
